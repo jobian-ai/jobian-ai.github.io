@@ -1,3 +1,6 @@
+categories: [Announcements]
+tags: [news, vanity]
+
 ## This is my first post.
 
 ### Lorem ipsum
