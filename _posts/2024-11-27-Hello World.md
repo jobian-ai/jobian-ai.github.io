@@ -1,4 +1,7 @@
 ---
+layout: post
+title: Hello World!
+date: 27 11 2024
 categories: [Announcements]
 tags: [news, vanity]
 ---
