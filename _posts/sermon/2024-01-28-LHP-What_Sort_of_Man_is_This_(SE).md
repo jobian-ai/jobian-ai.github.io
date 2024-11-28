@@ -2,7 +2,7 @@
 layout: post
 title: What Sort of Man is This?
 date: 2024-01-28 10:00:00 +/-TTTT
-categories: [Sermon]
+categories: [sermon]
 tags: [authority, fear, faith, amazement]
 author: Don
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: The Greatest Authority of All
 date: 2024-02-11 10:00:00 +/-TTTT
-categories: [Sermon]
+categories: [sermon]
 tags: [authority, evil, faith, forgiveness]
 author: Don
 ---

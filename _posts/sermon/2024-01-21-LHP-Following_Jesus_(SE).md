@@ -2,7 +2,7 @@
 layout: post
 title: Following Jesus
 date: 2024-01-21 10:00:00 +/-TTTT
-categories: [Sermon]
+categories: [sermon]
 tags: [repentance, humility, commitment]
 author: Don
 ---

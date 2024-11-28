@@ -2,7 +2,7 @@
 layout: post
 title: Life and Ministry of Jesus - Healings
 date: 2024-01-14 10:00:00 +/-TTTT
-categories: [Sermon]
+categories: [sermon]
 tags: [healing, authority]
 author: Don
 ---

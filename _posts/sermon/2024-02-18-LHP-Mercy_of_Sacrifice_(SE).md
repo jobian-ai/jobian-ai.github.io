@@ -2,7 +2,7 @@
 layout: post
 title: Mercy of Sacrifice
 date: 2024-02-11 10:00:00 +/-TTTT
-categories: [Sermon]
+categories: [sermon]
 tags: [mercy, sacrifice, scandalous, self-righteousness, Chuck Colson]
 author: Don
 ---
