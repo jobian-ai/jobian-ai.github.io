@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life and Ministry of Jesus - Healings
-date: 14 01 2024
+date: 2024-01-14 10:00:00 +/-TTTT
 categories: [Sermon]
 tags: [healing, authority]
 author: Don
@@ -9,6 +9,8 @@ author: Don
 # Living Hope Presbyterian Church 
 
 ## Matthew Series
+
+### [Passage](https://www.stepbible.org/?q=version=ESV@reference=Matt.8&options=HVNUG)
 
 **Sermon Summary**:
 The sermon delves into Matthew chapter 8, focusing on Jesus' ministry of healing. It explores three key healing encounters: the cleansing of a leper, the healing of a centurion's servant, and the restoration of Peter's mother-in-law. Through these interactions, the sermon emphasizes Jesus' authority, compassion, and willingness to heal both physically and spiritually. The sermon highlights the significance of these healings in revealing Jesus' identity as the Christ and pointing to the ultimate healing through his sacrificial death on the cross.
