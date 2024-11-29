@@ -3,7 +3,7 @@ layout: post
 title: April Fools
 date: 2024-04-07 10:00:00 +/-TTTT
 categories: [sermon]
-tags: [wisdom, austerity, non-conformity]
+tags: [wisdom, austerity, nonconformity]
 author: Don
 ---
 ## Matthew Series
@@ -48,3 +48,4 @@ The sermon delves into Matthew chapter 11, focusing on Jesus' response to John t
 - The analogy of planting peas needing a trellis to grow, symbolizing how wise deeds require a foundation in Christ to bear fruit.
 
 This analysis provides a comprehensive breakdown of the sermon's key elements, encouraging reflection on living faithfully for Christ despite societal pressures and opposition.
+.
