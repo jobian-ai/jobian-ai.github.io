@@ -10,7 +10,6 @@ tags: [news, vanity]
 ## Test post.  Please Ignore.
 
 ### Lorem ipsum
-<br/><br/>
 <details closed>
   <summary>Expand here for scripture passage</summary>
 <br/><br/><b>Matthew 8</b>
