@@ -5,10 +5,8 @@ date: 2024-12-01 10:00:00 +/-TTTT
 categories: [Announcements]
 tags: [news, vanity]
 ---
-
-
 ## Test post.  Please Ignore.
-
+<!-- a normal html comment DOES IT SHOW? --> 
 ### Lorem ipsum
 <details closed>
   <summary>Expand here for the scripture passage</summary>
