@@ -11,7 +11,7 @@ tags: [news, vanity]
 
 ### Lorem ipsum
 <details closed>
-  <summary>Expand here for scripture passage</summary>
+  <summary>Expand here for the scripture passage</summary>
 <br/><br/><b>Matthew 8</b>
 <br/><br/>
 <i>1 When he came down from the mountain, great crowds followed him. 2 And behold, a leper came to him and knelt before him, saying, “Lord, if you will, you can make me clean.” 3 And Jesus stretched out his hand and touched him, saying, “I will; be clean.” And immediately his leprosy was cleansed. 4 And Jesus said to him, “See that you say nothing to anyone, but go, show yourself to the priest and offer the gift that Moses commanded, for a proof to them.”<br/><br/>
