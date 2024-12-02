@@ -10,9 +10,9 @@ tags: [news, vanity]
 ## This is my first post.
 
 ### Lorem ipsum
-
+<br/><br/>
 <details closed>
-  <summary>Expand for Passage</summary>
+  <summary>Expand here for scripture passage</summary>
 Matthew 8
 <br/><br/>
 1 When he came down from the mountain, great crowds followed him. 2 And behold, a leper came to him and knelt before him, saying, “Lord, if you will, you can make me clean.” 3 And Jesus stretched out his hand and touched him, saying, “I will; be clean.” And immediately his leprosy was cleansed. 4 And Jesus said to him, “See that you say nothing to anyone, but go, show yourself to the priest and offer the gift that Moses commanded, for a proof to them.”<br/><br/>
@@ -24,6 +24,7 @@ ESV: The Holy Bible, English Standard Version ©2011 Crossway Bibles, a division
 <br/><br/>
 ___
 </details>
+<br/><br/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui augue, convallis eget dui vitae, dignissim tincidunt purus. Mauris a efficitur dui. Ut nec finibus tellus. Donec eu est et odio elementum semper in eget turpis. Phasellus eget porta lacus. Nulla cursus lectus quis bibendum feugiat. Nam varius enim vel mi tempor hendrerit. Cras commodo tincidunt orci sed cursus. Suspendisse non varius dui, non sollicitudin quam.
 
