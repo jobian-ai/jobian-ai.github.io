@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-date: 27 11 2024
+date: 2024-12-02 10:00:00 +/-TTTT
 categories: [Announcements]
 tags: [news, vanity]
 ---
