@@ -8,7 +8,7 @@ author: Don
 ---
 # Living Hope Presbyterian Church 
 
-## Matthew Series
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-01-14)
 
 <details closed>
   <summary>Expand here for the scripture passage</summary>
