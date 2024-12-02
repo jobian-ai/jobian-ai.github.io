@@ -7,7 +7,7 @@ tags: [news, vanity]
 ---
 
 
-## This is my first post.
+## Test post.  Please Ignore.
 
 ### Lorem ipsum
 <br/><br/>
@@ -15,17 +15,15 @@ tags: [news, vanity]
   <summary>Expand here for scripture passage</summary>
 <br/><br/><b>Matthew 8</b>
 <br/><br/>
-1 When he came down from the mountain, great crowds followed him. 2 And behold, a leper came to him and knelt before him, saying, “Lord, if you will, you can make me clean.” 3 And Jesus stretched out his hand and touched him, saying, “I will; be clean.” And immediately his leprosy was cleansed. 4 And Jesus said to him, “See that you say nothing to anyone, but go, show yourself to the priest and offer the gift that Moses commanded, for a proof to them.”<br/><br/>
+<i>1 When he came down from the mountain, great crowds followed him. 2 And behold, a leper came to him and knelt before him, saying, “Lord, if you will, you can make me clean.” 3 And Jesus stretched out his hand and touched him, saying, “I will; be clean.” And immediately his leprosy was cleansed. 4 And Jesus said to him, “See that you say nothing to anyone, but go, show yourself to the priest and offer the gift that Moses commanded, for a proof to them.”<br/><br/>
 5 When he had entered Capernaum, a centurion came forward to him, appealing to him, 6 “Lord, my servant is lying paralyzed at home, suffering terribly.” 7 And he said to him, “I will come and heal him.” 8 But the centurion replied, “Lord, I am not worthy to have you come under my roof, but only say the word, and my servant will be healed. 9 For I too am a man under authority, with soldiers under me. And I say to one, ‘Go,’ and he goes, and to another, ‘Come,’ and he comes, and to my servant, ‘Do this,’ and he does it.” 10 When Jesus heard this, he marveled and said to those who followed him, “Truly, I tell you, with no one in Israel have I found such faith. 11 I tell you, many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven, 12 while the sons of the kingdom will be thrown into the outer darkness. In that place there will be weeping and gnashing of teeth.” 13 And to the centurion Jesus said, “Go; let it be done for you as you have believed.” And the servant was healed at that very moment.
 <br/><br/>
 14 And when Jesus entered Peter’s house, he saw his mother-in-law lying sick with a fever. 15 He touched her hand, and the fever left her, and she rose and began to serve him. 16 That evening they brought to him many who were oppressed by demons, and he cast out the spirits with a word and healed all who were sick. 17 This was to fulfill what was spoken by the prophet Isaiah: “He took our illnesses and bore our diseases.”
-<br/><br/>
+<br/><br/></i>
 ESV: The Holy Bible, English Standard Version ©2011 Crossway Bibles, a division of Good News Publishers.  All rights reserved.
 <br/><br/>
-___
 </details>
-<br/><br/>
-
+<br/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui augue, convallis eget dui vitae, dignissim tincidunt purus. Mauris a efficitur dui. Ut nec finibus tellus. Donec eu est et odio elementum semper in eget turpis. Phasellus eget porta lacus. Nulla cursus lectus quis bibendum feugiat. Nam varius enim vel mi tempor hendrerit. Cras commodo tincidunt orci sed cursus. Suspendisse non varius dui, non sollicitudin quam.
 
 ### [Link Test](https://github.com/jobian-ai/LHP-Sermons/tree/17743a2fdbf663aae26fce92de47bcdde298ac2a/sermons/24-01-14)
