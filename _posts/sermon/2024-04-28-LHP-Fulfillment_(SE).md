@@ -6,9 +6,27 @@ categories: [sermon]
 tags: [humility, compassion]
 author: Don
 ---
-## Matthew Series
+# Living Hope Presbyterian Church 
 
-### [Passage](https://www.stepbible.org/?q=version=ESV@reference=Matt.12&options=HVNUG)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-04-28)
+
+<details closed>
+  <summary>Expand here for the scripture passage</summary>
+<br/><br/><b>Matthew 12</b>
+<br/><br/><i> 
+Matthew 12: 
+15 Jesus, aware of this, withdrew from there. And many followed him, and he healed them all 16 and ordered them not to make him known. 17 This was to fulfill what was spoken by the prophet Isaiah:<br/><br/>
+18 “Behold, my servant whom I have chosen, my beloved with whom my soul is well pleased.
+ I will put my Spirit upon him,
+	and he will proclaim justice to the Gentiles.
+<br/><br/>19 He will not quarrel or cry aloud, nor will anyone hear his voice in the streets;<br/><br/>
+20 a bruised reed he will not break, and a smoldering wick he will not quench, until he brings justice to victory;<br/><br/>
+21 	and in his name the Gentiles will hope.”
+<br/><br/></i>
+ESV: The Holy Bible, English Standard Version ©2011 Crossway Bibles, a division of Good News Publishers.  All rights reserved.
+<br/><br/>
+</details>
+<br/>
 
 **Sermon Summary**:
 The sermon delves into the escalating conflict between Jesus and the religious leaders, focusing on Jesus' response to threats and his alignment with the prophetic description in Isaiah. It emphasizes Jesus as the chosen servant, beloved son, and Spirit-filled individual, highlighting his compassionate and humble nature in dealing with the broken and marginalized. The sermon underscores the themes of proclamation, quiet humility, compassion for the vulnerable, and placing hope in Christ's victory.

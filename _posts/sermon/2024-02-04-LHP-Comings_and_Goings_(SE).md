@@ -6,10 +6,20 @@ categories: [sermon]
 tags: [authority, evil, commitment, demons]
 author: Don
 ---
-## Matthew Series
+# Living Hope Presbyterian Church 
 
-### [Passage](https://www.stepbible.org/?q=version=ESV@reference=Matt.8&options=HVNUG)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-02-04)
 
+<details closed>
+  <summary>Expand here for the scripture passage</summary>
+<br/><br/><b>Matthew 8</b>
+<br/><br/><i>
+28 And when he came to the other side, to the country of the Gadarenes, two demon-possessed men met him, coming out of the tombs, so fierce that no one could pass that way. 29 And behold, they cried out, “What have you to do with us, O Son of God? Have you come here to torment us before the time?” 30 Now a herd of many pigs was feeding at some distance from them. 31 And the demons begged him, saying, “If you cast us out, send us away into the herd of pigs.” 32 And he said to them, “Go.” So they came out and went into the pigs, and behold, the whole herd rushed down the steep bank into the sea and drowned in the waters. 33 The herdsmen fled, and going into the city they told everything, especially what had happened to the demon-possessed men. 34 And behold, all the city came out to meet Jesus, and when they saw him, they begged him to leave their region.
+<br/><br/></i>
+ESV: The Holy Bible, English Standard Version ©2011 Crossway Bibles, a division of Good News Publishers.  All rights reserved.
+<br/><br/>
+</details>
+<br/>
 **Sermon Summary**:
 The sermon delves into the story from Matthew chapter 8, focusing on Jesus' authority over creation, demons, and spiritual forces of evil. It emphasizes the distinction between merely making a decision to follow Jesus and truly committing to follow Him wholeheartedly. The narrative unfolds with Jesus crossing to the other side of the Sea of Galilee, encountering demon-possessed men, and ultimately being asked to leave by the city dwellers who preferred their old way of life over embracing Jesus as the Son of God and King.
 

@@ -6,9 +6,20 @@ categories: [sermon]
 tags: [authority, fear, faith, amazement]
 author: Don
 ---
-## Matthew Series
+# Living Hope Presbyterian Church 
 
-### [Passage](https://www.stepbible.org/?q=version=ESV@reference=Matt.8&options=HVNUG)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-01-28)
+
+<details closed>
+  <summary>Expand here for the scripture passage</summary>
+<br/><br/><b>Matthew 8</b>
+<br/><br/><i>
+23 And when he got into the boat, his disciples followed him. 24 And behold, there arose a great storm on the sea, so that the boat was being swamped by the waves; but he was asleep. 25 And they went and woke him, saying, “Save us, Lord; we are perishing.” 26 And he said to them, “Why are you afraid, O you of little faith?” Then he rose and rebuked the winds and the sea, and there was a great calm. 27 And the men marveled, saying, “What sort of man is this, that even winds and sea obey him?”
+<br/><br/></i>
+ESV: The Holy Bible, English Standard Version ©2011 Crossway Bibles, a division of Good News Publishers.  All rights reserved.
+<br/><br/>
+</details>
+<br/>
 
 **Sermon Summary**:
 The sermon delves into the story from Matthew 8:23-27 where Jesus and his disciples encounter a great storm while crossing the sea. The main focus is on the disciples' fear and lack of faith in the midst of the storm, contrasted with Jesus' power and ability to calm the sea. The sermon emphasizes the importance of trusting in Jesus, even in the face of life's storms, and highlights Jesus as the powerful and compassionate Savior who brings calm to chaos.

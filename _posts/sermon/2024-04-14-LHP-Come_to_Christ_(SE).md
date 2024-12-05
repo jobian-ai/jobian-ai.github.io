@@ -6,9 +6,20 @@ categories: [sermon]
 tags: [repentence, salvation, faith]
 author: Don
 ---
-## Matthew Series
+# Living Hope Presbyterian Church 
 
-### [Passage](https://www.stepbible.org/?q=version=ESV@reference=Matt.11&options=HVNUG)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-04-14)
+
+<details closed>
+  <summary>Expand here for the scripture passage</summary>
+<br/><br/><b>Matthew 11</b>
+<br/><br/><i>Matthew 11: 20 Then he began to denounce the cities where most of his mighty works had been done, because they did not repent. 21 “Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes. 22 But I tell you, it will be more bearable on the day of judgment for Tyre and Sidon than for you. 23 And you, Capernaum, will you be exalted to heaven? You will be brought down to Hades. For if the mighty works done in you had been done in Sodom, it would have remained until this day. 24 But I tell you that it will be more tolerable on the day of judgment for the land of Sodom than for you.”<br/><br/>
+25 At that time Jesus declared, “I thank you, Father, Lord of heaven and earth, that you have hidden these things from the wise and understanding and revealed them to little children; 26 yes, Father, for such was your gracious will. 27 All things have been handed over to me by my Father, and no one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him. 28 Come to me, all who labor and are heavy laden, and I will give you rest. 29 Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. 30 For my yoke is easy, and my burden is light.”
+<br/><br/></i>
+ESV: The Holy Bible, English Standard Version ©2011 Crossway Bibles, a division of Good News Publishers.  All rights reserved.
+<br/><br/>
+</details>
+<br/>
 
 **Sermon Summary**:
 The sermon delves into the narrative from Matthew 11, focusing on the interaction between Jesus, John the Baptist's disciples, and the cities where Jesus performed mighty works. It explores the themes of repentance, rejection, and the revelation of truth to those who are humble and childlike in their faith. Jesus denounces cities for their lack of repentance despite witnessing miracles, emphasizing the importance of coming to Him for rest and salvation. The sermon urges listeners to respond with faith and embrace the yoke of Christ for true freedom and peace.

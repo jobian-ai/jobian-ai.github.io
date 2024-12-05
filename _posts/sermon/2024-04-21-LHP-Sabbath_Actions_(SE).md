@@ -6,9 +6,21 @@ categories: [sermon]
 tags: [sabbath, authority, mercy]
 author: Don
 ---
-## Matthew Series
+# Living Hope Presbyterian Church 
 
-### [Passage](https://www.stepbible.org/?q=version=ESV@reference=Matt.11&options=HVNUG)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-04-21)
+
+<details closed>
+  <summary>Expand here for the scripture passage</summary>
+<br/><br/><b>Matthew 12</b>
+<br/><br/><i> 
+Matthew 12: 1 At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry, and they began to pluck heads of grain and to eat. 2 But when the Pharisees saw it, they said to him, “Look, your disciples are doing what is not lawful to do on the Sabbath.” 3 He said to them, “Have you not read what David did when he was hungry, and those who were with him: 4 how he entered the house of God and ate the bread of the Presence, which it was not lawful for him to eat nor for those who were with him, but only for the priests? 5 Or have you not read in the Law how on the Sabbath the priests in the temple profane the Sabbath and are guiltless? 6 I tell you, something greater than the temple is here. 7 And if you had known what this means, ‘I desire mercy, and not sacrifice,’ you would not have condemned the guiltless. 8 For the Son of Man is lord of the Sabbath.”<br/><br/>
+9 He went on from there and entered their synagogue. 10 And a man was there with a withered hand. And they asked him, “Is it lawful to heal on the Sabbath?”— so that they might accuse him. 11 He said to them, “Which one of you who has a sheep, if it falls into a pit on the Sabbath, will not take hold of it and lift it out? 12 Of how much more value is a man than a sheep! So it is lawful to do good on the Sabbath.” 13 Then he said to the man, “Stretch out your hand.” And the man stretched it out, and it was restored, healthy like the other. 14 But the Pharisees went out and conspired against him, how to destroy him.
+<br/><br/></i>
+ESV: The Holy Bible, English Standard Version ©2011 Crossway Bibles, a division of Good News Publishers.  All rights reserved.
+<br/><br/>
+</details>
+<br/>
 
 **Sermon Summary**:
 The sermon delves into the significance of the Sabbath, focusing on Jesus' interactions on the Sabbath day as depicted in Matthew 12. It explores the conflict between the religious leaders' rigid interpretation of Sabbath rules and Jesus' emphasis on mercy and doing good. Jesus asserts His authority as the Lord of the Sabbath, challenging traditional legalistic views and highlighting the essence of mercy and rest in observing the Sabbath.

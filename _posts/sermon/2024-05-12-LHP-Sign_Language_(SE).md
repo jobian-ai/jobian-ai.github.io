@@ -6,9 +6,21 @@ categories: [sermon]
 tags: [signs, repentance, authority]
 author: Don
 ---
-## Matthew Series
+# Living Hope Presbyterian Church 
 
-### [Passage](https://www.stepbible.org/?q=version=ESV@reference=Matt.12&options=HVNUG)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-05-12)
+
+<details closed>
+  <summary>Expand here for the scripture passage</summary>
+<br/><br/><b>Matthew 12</b>
+<br/><br/><i>
+Matthew 12: 38 Then some of the scribes and Pharisees answered him, saying, “Teacher, we wish to see a sign from you.” 39 But he answered them, “An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah. 40 For just as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth. 41 The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here. 42 The queen of the South will rise up at the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of Solomon, and behold, something greater than Solomon is here.<br/><br/>
+43 “When the unclean spirit has gone out of a person, it passes through waterless places seeking rest, but finds none. 44 Then it says, ‘I will return to my house from which I came.’ And when it comes, it finds the house empty, swept, and put in order. 45 Then it goes and brings with it seven other spirits more evil than itself, and they enter and dwell there, and the last state of that person is worse than the first. So also will it be with this evil generation.”
+<br/><br/></i>
+ESV: The Holy Bible, English Standard Version ©2011 Crossway Bibles, a division of Good News Publishers.  All rights reserved.
+<br/><br/>
+</details>
+<br/>
 
 **Sermon Summary**:
 The sermon delves into a passage from Matthew chapter 12, focusing on the growing conflict between Jesus and the religious leaders of His time. Jesus warns the Pharisees about demanding signs to prove His authority, emphasizing that true belief goes beyond mere visual evidence. He uses the examples of Jonah, the queen of Sheba, and an unclean spirit to illustrate the importance of humility, repentance, and faith in following Him. The sermon underscores the need for a genuine commitment to Christ, acknowledging sin, and embracing the gospel without relying on external signs.

@@ -6,9 +6,21 @@ categories: [sermon]
 tags: [questioning, miracles, faith]
 author: Don
 ---
-## Matthew Series
+# Living Hope Presbyterian Church 
 
-### [Passage](https://www.stepbible.org/?q=version=ESV@reference=Matt.11&options=HVNUG)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-03-31)
+
+<details closed>
+  <summary>Expand here for the scripture passage</summary>
+<br/><br/><b>Matthew 11</b>
+<br/><br/><i>
+Matthew 11: 1 When Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in their cities.
+2 Now when John heard in prison about the deeds of the Christ, he sent word by his disciples 3 and said to him, “Are you the one who is to come, or shall we look for another?” 4 And Jesus answered them, “Go and tell John what you hear and see: 5 the blind receive their sight and the lame walk, lepers are cleansed and the deaf hear, and the dead are raised up, and the poor have good news preached to them. 6 And blessed is the one who is not offended by me.”
+<br/><br/></i>
+ESV: The Holy Bible, English Standard Version ©2011 Crossway Bibles, a division of Good News Publishers.  All rights reserved.
+<br/><br/>
+</details>
+<br/>
 
 **Sermon Summary**:
 The sermon delves into the story of John the Baptist, who, while in prison, sends his disciples to ask Jesus if he is truly the awaited Messiah. Jesus responds by pointing to the miracles and works he has performed, affirming his identity as the Christ. The sermon emphasizes the importance of not being offended by Jesus, as embracing him brings blessings, forgiveness, and eternal life. It challenges listeners to humble themselves before Christ and accept him as their king.

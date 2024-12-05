@@ -1,14 +1,26 @@
 ---
 layout: post
 title: Mercy of Sacrifice
-date: 2024-02-11 10:00:00 +/-TTTT
+date: 2024-02-18 10:00:00 +/-TTTT
 categories: [sermon]
 tags: [mercy, sacrifice, scandalous, self-righteousness, Chuck Colson]
 author: Don
 ---
-## Matthew Series
+# Living Hope Presbyterian Church 
 
-### [Passage](https://www.stepbible.org/?q=version=ESV@reference=Matt.9&options=HVNUG)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-02-18)
+
+<details closed>
+  <summary>Expand here for the scripture passage</summary>
+<br/><br/><b>Matthew 8</b>
+<br/><br/><i>
+9 As Jesus passed on from there, he saw a man called Matthew sitting at the tax booth, and he said to him, “Follow me.” And he rose and followed him.
+10 And as Jesus reclined at table in the house, behold, many tax collectors and sinners came and were reclining with Jesus and his disciples. 11 And when the Pharisees saw this, they said to his disciples, “Why does your teacher eat with tax collectors and sinners?” 12 But when he heard it, he said, “Those who are well have no need of a physician, but those who are sick. 13 Go and learn what this means: ‘I desire mercy, and not sacrifice.’ For I came not to call the righteous, but sinners.”
+<br/><br/></i>
+ESV: The Holy Bible, English Standard Version ©2011 Crossway Bibles, a division of Good News Publishers.  All rights reserved.
+<br/><br/>
+</details>
+<br/>
 
 **Sermon Summary**:
 The sermon delves into the transformative power of redemption and the scandalous nature of the gospel, using the story of Chuck Colson's conversion and the encounter of Jesus with Matthew, a tax collector. It emphasizes the themes of repentance, mercy, and the call to follow Christ, challenging listeners to embrace humility, compassion, and a gospel-centered life.
