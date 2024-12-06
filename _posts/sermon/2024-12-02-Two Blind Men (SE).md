@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kingdom Greatness
+title: Two Blind Men
 date: 2024-12-02 10:00:00 +/-TTTT
 categories: [sermon]
 tags: [compassion, faith, humility]
