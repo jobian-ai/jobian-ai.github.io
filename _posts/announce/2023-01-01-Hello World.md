@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 date: 2023-01-01 10:00:00 +/-TTTT
-categories: [Announcements]
+categories: [announce]
 tags: [news, vanity]
 ---
 ## Test post.  Please Ignore.
