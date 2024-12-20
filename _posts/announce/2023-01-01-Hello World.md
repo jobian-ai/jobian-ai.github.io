@@ -73,6 +73,9 @@ df_inq['DATE_OPENED'] = df_inq['DATE_OPENED'].dt.strftime('%m/%d/%Y')
 print(df_inq['DATE_OPENED'].head())
 ```
 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7z5ogSFfv2yzDLb5sCbc4R?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Suspendisse vel lectus libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis quam ante, tempor quis accumsan id, tincidunt in nisl. Aenean turpis mauris, vehicula eget bibendum sit amet, porta nec mi. Phasellus vel elit urna. Praesent id magna lectus. Nulla consectetur arcu neque, vel ultrices leo malesuada quis.
 
 Sed rhoncus, nunc et iaculis faucibus, ipsum ligula posuere arcu, vel gravida sem dui vel odio. Morbi nibh odio, sagittis vel venenatis id, suscipit eu ante. Sed suscipit faucibus suscipit. Cras nisi felis, consectetur vitae massa quis, blandit varius dui. Integer sodales sit amet nibh ac tempor. Sed neque enim, venenatis a urna nec, tempus tristique odio. Nam eu nisl orci. Donec porttitor urna egestas elit tempus auctor. Maecenas sodales velit in feugiat sollicitudin.
