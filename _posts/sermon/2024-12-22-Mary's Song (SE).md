@@ -3,7 +3,7 @@ layout: post
 title: Mary's Song
 date: 2024-12-22 10:00:00 +/-TTTT
 categories: [sermon]
-tags: [idolatry, darkness, light]
+tags: [humility, faithfulness, compassion]
 author: Don
 ---
 
