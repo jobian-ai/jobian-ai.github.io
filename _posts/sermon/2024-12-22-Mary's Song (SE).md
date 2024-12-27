@@ -4,6 +4,7 @@ title: Mary's Song
 date: 2024-12-22 10:00:00 +/-TTTT
 categories: [sermon]
 tags: [humility, faithfulness, compassion]
+description: 🌟 Reflect on Mary's song in Luke 1:46-55 🙏 Embrace humility and trust in God's mercy 💪 Grow in your knowledge of the Lord 🎶 Sing praises to the King of Kings!
 author: Don
 ---
 
