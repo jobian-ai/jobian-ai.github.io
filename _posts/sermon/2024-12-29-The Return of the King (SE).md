@@ -10,7 +10,7 @@ author: Phillip
 
 # Living Hope Presbyterian Church
 
-Matthew 21:1-11 Jesus' entry into Jerusalem reveals his role as a humble, judging king, challenging the expectations of ancient royal visits and calling for spiritual introspection.
+~ <b>Matthew 21:1-11</b> Jesus' entry into Jerusalem reveals his role as a humble, judging king, challenging the expectations of ancient royal visits and calling for spiritual introspection.
 
 ## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/main/sermons/2024/24-12-29)
 
