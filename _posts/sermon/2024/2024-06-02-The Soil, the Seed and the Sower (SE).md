@@ -4,7 +4,7 @@ title: The Soil,  the Seed and the Sower
 date: 2024-06-02 10:00:00 +/-TTTT
 categories: [sermon]
 tags: [parables]
-author: Philip
+author: Phillip
 ---
 
 # Living Hope Presbyterian Church 
