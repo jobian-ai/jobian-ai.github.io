@@ -4,11 +4,13 @@ title: The Return of the King
 date: 2024-12-29 10:00:00 +/-TTTT
 categories: [sermon]
 tags: [humility, judgment, mercy]
-description: Jesus' entry into Jerusalem reveals his role as a humble, judging king, challenging the expectations of ancient royal visits and calling for spiritual introspection.
+# description: Matthew 21:1-11 Jesus' entry into Jerusalem reveals his role as a humble, judging king, challenging the expectations of ancient royal visits and calling for spiritual introspection.
 author: Phillip
 ---
 
 # Living Hope Presbyterian Church
+
+Matthew 21:1-11 Jesus' entry into Jerusalem reveals his role as a humble, judging king, challenging the expectations of ancient royal visits and calling for spiritual introspection.
 
 ## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/main/sermons/2024/24-12-29)
 
