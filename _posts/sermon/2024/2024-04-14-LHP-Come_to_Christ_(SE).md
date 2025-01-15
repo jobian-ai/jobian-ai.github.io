@@ -3,7 +3,7 @@ layout: post
 title: Coming to Christ
 date: 2024-04-14 10:00:00 +/-TTTT
 categories: [sermon]
-tags: [repentence, salvation, faith]
+tags: [repentance, salvation, faith]
 author: Don
 ---
 # Living Hope Presbyterian Church 
