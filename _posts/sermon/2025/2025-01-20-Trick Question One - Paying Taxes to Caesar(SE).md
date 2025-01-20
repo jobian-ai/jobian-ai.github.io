@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trick Question - Paying Taxes to Ceaser
+title: Trick Question - Paying Taxes to Caesar
 date: 2025-01-19 10:00:00 +/-TTTT
 categories: [sermon]
 tags: [allegiance, hypocrisy, sovereignty]
@@ -101,3 +101,6 @@ The story ends with a simple line: “They marveled.” And no wonder. Jesus did
 That’s what’s so compelling about Jesus. He isn’t swayed by appearances or flattery. He doesn’t play along with the games people try to trap him in. He cuts straight to the heart. And when you see that, you can’t help but marvel. 
 
 So here’s the question: do we marvel at the king? And more importantly, are we giving to him what is his? Because if we truly belong to him, then everything changes. 
+<br>
+
+![Desktop View](/assets/img/choose_wisely.jpg)
