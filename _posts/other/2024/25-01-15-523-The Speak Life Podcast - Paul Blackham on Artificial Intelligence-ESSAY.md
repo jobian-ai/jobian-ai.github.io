@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speak Life Podcast - The Problem with AI . . .
+title: The Problem with AI . . .
 date: 2025-01-15 02:00:00 +/-TTTT
 categories: [other]
 tags: [AI]
