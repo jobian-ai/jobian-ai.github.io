@@ -104,3 +104,4 @@ So here’s the question: do we marvel at the king? And more importantly, are we
 <br>
 
 ![Desktop View](/assets/img/choose_wisely.jpg)
+<meta name="twitter:image" content="https://pineland.am/assets/img/choose_wisely.jpg"> 
