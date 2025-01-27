@@ -10,7 +10,7 @@ author: Don
 
 # Living Hope Presbyterian Church
 
-~ <b>Matthew 22:23-33</b> Jesus counters the Sadducees' trick question about marriage in the resurrection by emphasizing God's power, their lack of understanding of God's work and the reality of life after death.
+~ <b>Matthew 22:23-33</b> Jesus counters the Sadducees' trick question about marriage in the resurrection by emphasizing God's power, their lack of understanding of God's word and the reality of life after death.
 
 ## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/main/sermons/2025/25-01-26)
 
