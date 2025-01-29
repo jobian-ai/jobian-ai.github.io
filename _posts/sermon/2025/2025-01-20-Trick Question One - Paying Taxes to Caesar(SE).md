@@ -110,5 +110,3 @@ That’s what’s so compelling about Jesus. He isn’t swayed by appearances or
 So here’s the question: do we marvel at the king? And more importantly, are we giving to him what is his? Because if we truly belong to him, then everything changes.
 <br>
 
-![Desktop View](/assets/img/choose_wisely.jpg)
-
