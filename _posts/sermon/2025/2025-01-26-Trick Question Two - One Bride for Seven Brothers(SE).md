@@ -110,4 +110,3 @@ Jesus’ rebuke of the Sadducees is both a warning and an invitation. It’s a w
 You don’t need to understand it fully. But you do need to leave room for it. Because the moment you limit God to what you can control, you miss out on what he’s actually offering.  
 
 ---
-![Desktop View](/assets/img/choose_wisely.jpg)
