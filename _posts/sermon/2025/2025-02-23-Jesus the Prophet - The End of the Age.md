@@ -77,9 +77,9 @@ The sermon delves into the themes of the end times, focusing on the destruction 
 
 ___
 
-# An Essay about this Sermon
+## An Essay about this Sermon
 
-# The End of the Age
+## The End of the Age
 
 I was at a funeral last week. Whenever I'm at a funeral, I'm reminded of how we deal with death. Most people avoid thinking about it. But if you're a thinking person, you eventually ask: what happens when I die? It's a natural question.
 
