@@ -3,7 +3,7 @@ layout: post
 title: Well Done, Good and Faithful Servent
 date: 2025-03-09 10:00:00 +/-TTTT
 categories: [sermon]
-tags: [End Times, Prophecy, Second Coming, stewardship]
+tags: [EndTimes, Prophecy, SecondComing, stewardship]
 author: Don
 ---
 <meta name="twitter:image" content="https://pineland.am/assets/img/Knight 512x256.png">

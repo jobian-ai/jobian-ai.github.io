@@ -3,7 +3,7 @@ layout: post
 title: Jesus the Prophet - The End of the Age
 date: 2025-02-23 10:00:00 +/-TTTT
 categories: [sermon]
-tags: [End Times, Prophecy, Second Coming, Faith]
+tags: [EndTimes, Prophecy, SecondComing, Faith]
 author: Don
 ---
 <meta name="twitter:image" content="https://pineland.am/assets/img/Knight 512x256.png">

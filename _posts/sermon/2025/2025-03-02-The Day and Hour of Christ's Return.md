@@ -3,7 +3,7 @@ layout: post
 title: The Day and Hour of Christ's Return
 date: 2025-03-02 10:00:00 +/-TTTT
 categories: [sermon]
-tags: [End Times, Prophecy, Second Coming, faithfulness]
+tags: [EndTimes, Prophecy, SecondComing, faithfulness]
 author: Don
 ---
 <meta name="twitter:image" content="https://pineland.am/assets/img/Knight 512x256.png">
