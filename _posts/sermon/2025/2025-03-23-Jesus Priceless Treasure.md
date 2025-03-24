@@ -10,9 +10,11 @@ author: Don
 
 # Living Hope Presbyterian Church
 
+| [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Spotify](https://open.spotify.com/episode/4ZIr61gelTUEnbf44kFYYM?si=01d6d32aeb454801) | [Instagram](https://www.instagram.com/livinghopepresbyterianchurch/) |[Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/main/sermons/2025/25-03-23) |
+
+
 Exploring Jesus' deliberate journey towards the cross, the plotting against Him by religious leaders, a woman's extravagant act of anointing Him, and Judas' betrayal for 30 pieces of silver. The sermon emphasizes the value individuals place on Jesus, contrasting acts of devotion with acts of betrayal, ultimately challenging listeners to reflect on their own valuation of Christ as their priceless treasure.
 
-| [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Spotify](https://open.spotify.com/episode/4ZIr61gelTUEnbf44kFYYM?si=01d6d32aeb454801) | [Instagram](https://www.instagram.com/livinghopepresbyterianchurch/) |[Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/main/sermons/2025/25-03-23) |
 
 <details closed>
   <summary>Expand here for the scripture passage</summary>
